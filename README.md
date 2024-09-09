@@ -45,7 +45,3 @@ Essa aplicação é apenas um projeto para fins de aprendizado e demonstração.
 * **Links:** Inclua links para os repositórios das bibliotecas ou frameworks utilizados, caso haja.
 * **Licença:** Especifique a licença do seu projeto (ex: MIT, GPL).
 * **Agradecimentos:** Agradeça a quem te ajudou ou inspirou durante o desenvolvimento.
-
-**Com esse README, você terá um guia completo e divertido para o seu projeto no GitHub!**
-
-**Gostaria de adicionar mais alguma coisa?**
